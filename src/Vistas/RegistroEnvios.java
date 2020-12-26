@@ -7,7 +7,7 @@ package Vistas;
 
 /**
  *
- * @author Sebastian
+ * @author johan
  */
 public class RegistroEnvios extends javax.swing.JFrame {
 

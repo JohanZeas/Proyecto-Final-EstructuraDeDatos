@@ -7,7 +7,7 @@ package Vistas;
 
 /**
  *
- * @author Sebastian
+ * @author johan
  */
 public class RegistroPersonal extends javax.swing.JFrame {
 

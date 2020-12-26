@@ -7,7 +7,7 @@ package Vistas;
 
 /**
  *
- * @author Sebastian
+ * @author johan
  */
 public class RegistroPaqueteCliente extends javax.swing.JFrame {
 

@@ -7,7 +7,7 @@ package proyectoestructura;
 
 /**
  *
- * @author Sebastian
+ * @author johan
  */
 public class ProyectoEstructura {
 

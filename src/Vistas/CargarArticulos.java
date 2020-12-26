@@ -7,7 +7,7 @@ package Vistas;
 
 /**
  *
- * @author Sebastian
+ * @author johan
  */
 public class CargarArticulos extends javax.swing.JFrame {
 
